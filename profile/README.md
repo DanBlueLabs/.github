@@ -6,4 +6,4 @@ In private development, ahead of a closed alpha.
 
 **Not announced. Already real.**
 
-https://danbluelabs.de
+[danbluelabs.de](https://danbluelabs.de) · [LinkedIn](https://www.linkedin.com/company/danbluelabs)
